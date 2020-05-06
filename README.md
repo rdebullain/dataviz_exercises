@@ -1,2 +1,2 @@
-# DataBootcamp_Week3_Day1_2_Exercise
-Exercises for DataBotcamp Week 3 Day 1, Day 2
+# Exercises for Data Visualization
+This repo contains exercises for data visualization module of Data Bootcamp.
